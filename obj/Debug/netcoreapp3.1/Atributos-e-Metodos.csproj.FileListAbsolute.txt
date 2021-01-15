@@ -1,0 +1,26 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\Atributos-e-Metodos\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.exe
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.deps.json
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.runtimeconfig.json
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.dll
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\bin\Debug\netcoreapp3.1\Atributos-e-Metodos.pdb
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.dll
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.pdb
+C:\Users\Pichau\Downloads\Atributos-e-Metodos-main\obj\Debug\netcoreapp3.1\Atributos-e-Metodos.genruntimeconfig.cache
